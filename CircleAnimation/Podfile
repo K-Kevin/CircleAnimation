@@ -1,0 +1,10 @@
+
+platform :ios, '8.0'
+
+target "CircleAnimation" do
+
+pod 'UICountingLabel', '1.4.0'
+pod 'UIView+Positioning', '1.0'
+
+
+end

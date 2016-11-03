@@ -1,0 +1,15 @@
+PODS:
+  - UICountingLabel (1.4.0)
+  - UIView+Positioning (1.0)
+
+DEPENDENCIES:
+  - UICountingLabel (= 1.4.0)
+  - UIView+Positioning (= 1.0)
+
+SPEC CHECKSUMS:
+  UICountingLabel: ed5ce5b6d5ef278ff40d99cfa49577a30ab0c87b
+  UIView+Positioning: a5de64bb58f328d431970cda2ff9ab779acafd83
+
+PODFILE CHECKSUM: fe9ac83afeb1a410b620ad2251a0ce64e5958d64
+
+COCOAPODS: 1.0.1
